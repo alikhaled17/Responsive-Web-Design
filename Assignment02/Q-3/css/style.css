@@ -1,0 +1,44 @@
+@font-face {
+  font-family: "myFont";
+  src: url(../RobotoCondensed-Light.ttf);
+}
+
+body {
+  font-family: "myFont";
+}
+
+.icon {
+  font-size: 10em;
+  color: #4f74ee;
+}
+
+.bgColorGray {
+  background-color: #eaecee;
+}
+
+.nav-item:hover {
+  background-color: #fff !important;
+}
+.nav-item:hover .nav-link {
+  color: #4f74ee !important;
+}
+.bgColor {
+  background-color: #4f74ee !important;
+}
+
+.shadwNav {
+  box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%);
+}
+
+.SocialIcons {
+  font-size: 2em;
+  cursor: pointer;
+}
+
+.homeSection {
+  padding-top: 100px;
+}
+
+.footer {
+  background-color: #4f74ee !important;
+}

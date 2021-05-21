@@ -1,0 +1,68 @@
+.bgColor {
+  background-color: #af0dfa;
+}
+
+.specificColor {
+  color: #af0dfa;
+}
+
+.navIcons {
+  font-size: 1.2em;
+  padding-left: 20px;
+}
+
+.PaddingTop {
+  padding-top: 100px;
+}
+
+.btn-primary {
+  background-color: #af0dfa;
+}
+@font-face {
+  font-family: "myFont";
+  src: url(../RobotoCondensed-Light.ttf);
+}
+
+body {
+  font-family: "myFont";
+  background-color: #f8f9f9;
+}
+
+.img-circle {
+  border-radius: 60% !important;
+}
+
+.profileIcons {
+  font-size: 1em;
+}
+
+.cursor {
+  cursor: pointer;
+}
+
+.btnWidth {
+  width: 3rem;
+}
+
+.imgWidth {
+  width: 10%;
+}
+
+.imgPost {
+  width: 40%;
+}
+
+@media only screen and (max-width: 420px) {
+  #rightSide {
+    display: none;
+  }
+}
+
+.SocialIcons {
+  font-size: 2em;
+  cursor: pointer;
+}
+
+img {
+  border: 2px solid #af0dfa;
+}
